@@ -10,7 +10,7 @@ Before beginning to register a participant, please make sure the steps below are
 
 2. The study is thoroughly explained to the potential participant, the understanding of study requirements and procedures confirmed and a signed informed consent form (ICF) is obtained.
 
-3. A copy of ICF is provided to the participant.
+3. A copy of the ICF is provided to the participant.
 
 4. A blood draw kit is ready with you for the participant who is ready to enroll.
 
@@ -28,4 +28,4 @@ Now, you are ready to enroll the participant and obtain a Participant ID number.
 
 * Record your fax number and attention to: on one of the Blood Sample Packing Slips
 
-* Record in your study folder Participant ID AND matching name of participant and medical record number. Keep this document in a safe place at your site and do not share with study sponsor.
+* Record in your study folder Participant ID AND matching name of participant and medical record number. Keep this document in a safe place at your site and do not share with the study sponsor.
