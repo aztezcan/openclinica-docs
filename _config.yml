@@ -6,7 +6,7 @@ collections:
     title: Posts
     output: true
   late_stage_study_steps:
-    title: Tumor monitoring in late stage solid tumor using cfDNA
+    title: Tumor monitoring in late stage solid tumors using cfDNA
     output: false
     study: true
   uploads:
